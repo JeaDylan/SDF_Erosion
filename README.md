@@ -3,7 +3,7 @@ Travail scolaire sur les Signed Distance Field, et le maillage de SDF via l'algo
 Travail scolaire sur le maillage de surface de Bézier, surfaces de révolutions, et la déformation globale ou locale de maillages.
 
 # Voir les deux PDF pour visualiser des images de mon travail
-# Pour compiler le projet, utilisez Qt et selon votre OS : 
+## Pour compiler le projet, utilisez Qt et selon votre OS : 
 ## Windows
 - First, you must install Qt6 (https://www.qt.io/download, use the open source version). Install the msvc2019_64 compiler only (*Note: other compilers can work too*).
 - Set the "QTDIR64" environment variable to your Qt installation folder (example: "E:\Code\Qt\6.3.0\msvc2019_64")
