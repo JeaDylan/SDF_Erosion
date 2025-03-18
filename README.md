@@ -1,6 +1,6 @@
 # SDF_Erosion
-Travail scolaire en C++ sur les Signed Distance Field, et le maillage de SDF via l'algorithme de Marching Cube, manipulation de technique d'érosion
-Travail scolaire en C++ sur le maillage de surface de Bézier, surfaces de révolutions, et la déformation globale ou locale de maillages.
+- Travail scolaire en C++ sur les Signed Distance Field, et le maillage de SDF via l'algorithme de Marching Cube, manipulation de technique d'érosion
+- Travail scolaire en C++ sur le maillage de surface de Bézier, surfaces de révolutions, et la déformation globale ou locale de maillages.
 
 ### Voir les deux PDF pour visualiser des images de mon travail
 ### Pour compiler le projet, utilisez Qt et selon votre OS : 
